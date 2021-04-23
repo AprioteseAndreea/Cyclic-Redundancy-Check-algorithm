@@ -1,1 +1,2 @@
 # Cyclic-Redundancy-Check-algorithm
+CRC checks (cyclic redundancy checks) are the most commonly used checks in data communication.In embedded software development, CRC algorithm is often used to verify various data.Therefore, mastering basic CRC algorithms should be a basic skill for embedded programmers.However, few embedded programmers I know can really master the CRC algorithm. Most of the CRC code that I usually see in a project is a very inefficient implementation.
